@@ -1,0 +1,13 @@
+client:
+  github:
+    baseUrl: "https://api.github.com"
+
+secret:
+  github:
+    token: "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"
+
+feign:
+  client:
+    config:
+      default:
+        loggerLevel: full
